@@ -1,7 +1,5 @@
-### &nbsp;Hello there!
-
 <p align="center">
-<img align="center" width="55%" alt="GIF" src="https://media.giphy.com/media/3owzWkGtQ3us1pV0qc/giphy.gif"></img>
+<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/3owzWkGtQ3us1pV0qc/giphy.gif"></img>
 </p>
 
 ### &nbsp;Statistics
